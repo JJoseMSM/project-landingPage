@@ -136,3 +136,13 @@ nav  a {
     border: solid 1px #F9FAF8;
     cursor: pointer;
 }
+
+.section5 {
+    padding: 5rem;
+    background-color: #1F2937;
+}
+
+.f-p {
+    color: white;
+    text-align: center;
+}
