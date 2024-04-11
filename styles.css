@@ -85,7 +85,22 @@ nav  a {
     text-align: center;
     font-size: 3rem;
 }
-.section2 p {
-    text-align: center;
 
+.section3 {
+    padding: 5rem;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    width: 65%;
+    display: flex;
+    justify-content: center;
+}
+.author {
+    display: flex;
+    align-items: flex-end;
 }
